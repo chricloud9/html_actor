@@ -1,0 +1,14 @@
+#sopranos{
+font-size: 24px;
+text-align: center;
+color: black;
+font-weight: bold;
+}
+@media screen and (min-width: 1201px) {
+    body {
+        background-color: lightgreen;
+    }
+}
+#photos{
+  background-color: black;
+}
